@@ -1,4 +1,4 @@
-#Jory's Xcode Synax Themes
+#Jory's Xcode Syntax Themes
 
 Many color themes use wild, bright colors and too many of them. I need something more subdued, but with a congruent, color theory-based palette. 
 
