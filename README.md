@@ -4,7 +4,7 @@ Many color themes use wild, bright colors and too many of them. I need something
 
 I've been using these for a while now and I'm happy with them.
 
-I'm currently using Adobe's wonderful open-source coding font, [Source Code Pro](https://github.com/adobe-fonts/source-c…) and highly recommend it.
+I'm currently using Adobe's wonderful open-source coding font, [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) and highly recommend it.
 
 ## Dark
 ![](images/dark.png)
@@ -17,6 +17,6 @@ I'm currently using Adobe's wonderful open-source coding font, [Source Code Pro]
 
 #### Installation
 
-*Recommended:* Install Adobe's free [Source Code Pro](https://github.com/adobe-fonts/source-c…) font. 
+*Recommended:* Install Adobe's free [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) font. 
 
 Copy the color theme files into your `~/Library/Developer/Xcode/UserData/FontAndColorThemes/` directory.
