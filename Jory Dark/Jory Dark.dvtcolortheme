@@ -91,35 +91,35 @@
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.546146 0.69982 0.792594 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>0.820176 0.815207 0.826659 1</string>
+		<string>0.541488 0.698855 0.797263 1</string>
 		<key>xcode.syntax.identifier.constant</key>
 		<string>0.546146 0.69982 0.792594 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>0.820176 0.815207 0.826659 1</string>
+		<string>0.889634 0.889805 0.889605 1</string>
 		<key>xcode.syntax.identifier.function</key>
 		<string>0.546146 0.69982 0.792594 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>0.820176 0.815207 0.826659 1</string>
+		<string>0.889634 0.889805 0.889605 1</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>0.278431 0.580392 0.0666667 1</string>
+		<string>0.227786 0.647993 0.35951 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>0.278431 0.580392 0.0666667 1</string>
+		<string>0.227786 0.647993 0.35951 1</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>0.546146 0.69982 0.792594 1</string>
+		<string>0.541488 0.698855 0.797263 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>0.820176 0.815207 0.826659 1</string>
+		<string>0.541488 0.698855 0.797263 1</string>
 		<key>xcode.syntax.identifier.variable</key>
 		<string>0.546146 0.69982 0.792594 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>0.820176 0.815207 0.826659 1</string>
+		<string>0.889634 0.889805 0.889605 1</string>
 		<key>xcode.syntax.keyword</key>
 		<string>0.485934 0.596755 0.998799 1</string>
 		<key>xcode.syntax.number</key>
 		<string>1 0.464955 0 1</string>
 		<key>xcode.syntax.plain</key>
-		<string>0.908899 0.909073 0.908869 1</string>
+		<string>0.882299 0.882468 0.882271 1</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>0.278431 0.580392 0.0666667 1</string>
+		<string>0.227786 0.647993 0.35951 1</string>
 		<key>xcode.syntax.string</key>
 		<string>0.97187 0.131256 0.361478 1</string>
 		<key>xcode.syntax.url</key>
